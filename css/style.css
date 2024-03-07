@@ -1,0 +1,10 @@
+* {
+  font-family: Helvetica;
+  background-color: white;
+}
+
+h1 {
+  font-size: 150%;
+  color: blue;
+  margin-bottom: .5em;
+}
